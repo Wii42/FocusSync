@@ -1,0 +1,5 @@
+Es kann zu Problemen kommen, den Fokusmodus von MacOS so zu verändern, wie der Kunde dies wünscht.
+
+ - Eintrittswahrscheinlichkeit: gross
+ - Gewichtung:			gravierend
+ - Gegenmassnahmen:		Ein Meeting mit den Kunden muss vereinbart werden, um das weitere Vorgehen zu besprechen.
