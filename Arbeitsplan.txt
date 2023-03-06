@@ -1,2 +1,17 @@
 Link zu Shortcut:
 https://app.shortcut.com/pse-focussync
+
+
+Planning:
+
+ Sprint 1:
+ - Research und Sample-code
+
+ Sprint 2:
+ - Minimal viable Product erstellen
+
+ Sprint 3:
+ - Programm schön machen
+
+ Sprint 4:
+ - Dukumentation, Polish und nice-to-haves
