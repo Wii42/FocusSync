@@ -1,0 +1,9 @@
+Version 1.0.1
+Wir haben vor, Unit-Tests so weit wie möglich zu nutzen, aber den Schwerpunkt auf End-to-End-Tests zu legen.
+Dies bedeutet, dass wir die Funktionalität der entwickelten Buttons und die Änderungen des Fokus-Modus durch zeitliche Veränderungen testen werden. 
+Die Storys werden durch die Funktionalität der App (End-to-End) getestet, einschließlich der Grenzfälle, die uns von Devedis vorgegeben wurden. 
+Die End-to-End-Tests müssen auf MacOS erfolgen, da der zu beeinflussende Fokus-Modus auf anderen Betriebssystemen nicht existiert. 
+Das GUI soll automatisch und von Hand getestet werden. 
+Alle möglichen Interaktionsmöglichkeiten mit den Permutationen sollen automatisch auf Crashes getestet werden (Stress-Test/GUI-Test), 
+und die Funktionalität soll von Hand getestet werden (GUI-Test). 
+Die App soll einen Mehrwert für das Devedis-Team bringen und in der Praxis auf Benutzerfreundlichkeit geprüft werden (Usability-Test).
