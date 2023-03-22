@@ -17,7 +17,7 @@ Grundsätzlich ja. Alle Stories konnten erfolgreich erledigt werden, wenn auch n
 
 ## Kann die Kommunikation verbessert werden
 
-Grundsätzlich nein, denn wir stehen untereinander und mit Devedis durch WhatsApp und Slack unter stendigen Kontakt
+Grundsätzlich nein, denn wir stehen untereinander und mit Devedis durch WhatsApp und Slack unter ständigem Kontakt
 
 ## War die Auslastung Aller ähnlich? Sind alle zufrieden?
 
@@ -25,7 +25,7 @@ Lars und Bastien hatten devinitiv diese Iteration mehr zu tun als Lukas und Simo
 
 ## Gab es "Leerläufe"?
 
-Da wir und in zwei Gruppen aufgeteilt haben, bei denen beide Mitglieder immer an demselben Problem gearbeitet haben, gabe es keine Leerläufe, da wir einander immer auf dem Laufenden gehalten haben.
+Da wir uns in zwei Gruppen aufgeteilt haben, bei denen beide Mitglieder immer an demselben Problem gearbeitet haben, gabe es keine Leerläufe, da wir einander immer auf dem Laufenden gehalten haben.
 
 ## Wie Viel Zeit hat jedes Teammitglied investiert?
 
