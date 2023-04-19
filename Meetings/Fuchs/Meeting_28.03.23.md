@@ -1,4 +1,4 @@
-# Weekly Meeting Sprint 1 Week 3 (20.03.2023)
+# Meeting 20. März 2023
 
 ## Hauptthemen
 - Vortrags Feedback an Simon Kolly
